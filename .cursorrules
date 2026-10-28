@@ -1,0 +1,10 @@
+# Regras do Cursor para este Projeto
+
+Você está operando sob o protocolo **ShareBrain** definido no arquivo @ShareBrain.md.
+
+Antes de qualquer resposta ou modificação de código nesta sessão:
+1. Analise o estado atual em `.ai-workspace/state.json`.
+2. Revise as últimas ações em `.ai-workspace/history.jsonl`.
+3. Garanta que novas escolhas técnicas sejam alinhadas com `.ai-workspace/decisions.md`.
+
+@ShareBrain.md

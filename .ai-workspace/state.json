@@ -1,0 +1,17 @@
+{
+    "project_name": "meu-projeto",
+    "active_agent": "none",
+    "current_objective": "Estruturação inicial do repositório e configuração do ShareBrain.",
+    "active_files": [
+        "ShareBrain.md",
+        "CLAUDE.md",
+        "AGENTS.md",
+        ".cursorrules"
+    ],
+    "pending_tasks": [
+        "Definir a stack tecnológica inicial",
+        "Implementar a primeira feature principal",
+        "Validar o handoff entre Claude Code e OpenCode"
+    ],
+    "last_updated": "2026-10-28T21:00:00Z"
+}
